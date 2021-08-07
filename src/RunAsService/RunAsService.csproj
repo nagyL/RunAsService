@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>dotnet-RunAsService-8CE7CB7B-10A7-44F9-86A3-0A8C8574BC2C</UserSecretsId>
     <RootNamespace>RunAsService</RootNamespace>
     <Nullable>enable</Nullable>
     <OutputType>exe</OutputType>
