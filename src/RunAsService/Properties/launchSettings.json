@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "RunAsService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
